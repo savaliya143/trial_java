@@ -14,6 +14,6 @@ public class Main {
 	     Person priya=new Person();
 	     assertEquals("Hello World",priya.Helloworld());
 
-            System.out.println("okay");
+
     }
 }
